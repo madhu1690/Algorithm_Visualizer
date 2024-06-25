@@ -6,6 +6,12 @@ https://github.com/madhu1690/Algorithm_Visualizer/assets/135344672/3a2d5165-5625
 This project demonstrates how different algorithms work with random input values. You can visualize the algorithms in action by clicking the "Start" button in the interface.
 
 
+
+https://github.com/madhu1690/Algorithm_Visualizer/assets/135344672/55c67ed5-c8bb-4a07-b2ab-892bbfe87519
+
+
+
+
 ## Algorithm Types and Modules
 
 ## Sorting Algorithms
