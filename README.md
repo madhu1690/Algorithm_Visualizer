@@ -13,6 +13,11 @@ https://github.com/madhu1690/Algorithm_Visualizer/assets/135344672/22bf022a-b712
 
 
 
+![Screenshot 2024-06-25 195344](https://github.com/madhu1690/Algorithm_Visualizer/assets/135344672/79995480-1774-4374-8260-ab8893939237)
+
+
+In this project, path finding algorithms demonstrate how to navigate from a starting point to a destination efficiently. By clicking the "Start" button, you can see these algorithms in action with random input values
+
 
 
 
