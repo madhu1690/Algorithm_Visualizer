@@ -7,7 +7,11 @@ This project demonstrates how different algorithms work with random input values
 
 
 
-https://github.com/madhu1690/Algorithm_Visualizer/assets/135344672/55c67ed5-c8bb-4a07-b2ab-892bbfe87519
+
+
+https://github.com/madhu1690/Algorithm_Visualizer/assets/135344672/22bf022a-b712-4caa-ae17-c6d8773899e2
+
+
 
 
 
